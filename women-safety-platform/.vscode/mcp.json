@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "mongodb": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "mongodb-mcp-server",
+        "--connectionString",
+        "mongodb://varunpatil458_db_user:OK5fGcKYbAbaTXDN@ac-fkby2e5-shard-00-00.zrghdzw.mongodb.net:27017,ac-fkby2e5-shard-00-01.zrghdzw.mongodb.net:27017,ac-fkby2e5-shard-00-02.zrghdzw.mongodb.net:27017/women-safety-platform?ssl=true&authSource=admin&replicaSet=atlas-40fyu8-shard-0"
+      ]
+    }
+  }
+}
